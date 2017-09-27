@@ -1,12 +1,3 @@
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: tokenique.io
-layout_spectrum: 0.48196244542486966
 typography_spectrum: 0.7772567810025066
 color:
   brandStrength: 0.9897153014317155
@@ -19,13 +10,26 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-content: []
-url: 'http://tokeniq.io/'
+github: true
+layout_spectrum: 0.48196244542486966
 author:
   name: Mark Vange
   email: mvange@tokeniq.io
   url: 'https://www.linkedin.com/in/markvange/'
+name: tokenique.io
+url: 'http://tokeniq.io/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Test
+    id: d76d4c6f-98e8-4f76-bd8b-b247a8af3c57
+    type: content
 title: tokeniq.io
+content: []
 description: KYC & Montization solutions for ICO/ITO Issuers
 purpose: []
-github: true
