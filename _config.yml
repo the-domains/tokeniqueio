@@ -25,10 +25,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Test
-    id: d76d4c6f-98e8-4f76-bd8b-b247a8af3c57
-    type: content
 title: tokeniq.io
 content: []
 description: KYC & Montization solutions for ICO/ITO Issuers
