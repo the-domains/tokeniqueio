@@ -44,7 +44,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -54,3 +53,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: KYC & Montization solutions for ICO/ITO Issuers
 purpose: []
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de265d3e-d0aa-4437-9c5b-5cf53bad622d.png
