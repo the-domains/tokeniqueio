@@ -1,17 +1,17 @@
-typography_spectrum: 0.7772567810025066
+layout_spectrum: 0.4810018096637386
+typography_spectrum: 0.33509108034294505
 color:
-  brandStrength: 0.9897153014317155
-  lightness: 0.5105518933851272
-  saturation: 0.37742461171001196
-  rhythmicContrast: 0.8587872376665473
+  brandStrength: 0.9475814730307953
+  lightness: 0.12253363418402058
+  saturation: 0.7319741939463754
+  rhythmicContrast: 0.132766384125346
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 github: true
-layout_spectrum: 0.48196244542486966
 author:
   name: Mark Vange
   email: mvange@tokeniq.io
@@ -44,7 +44,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
