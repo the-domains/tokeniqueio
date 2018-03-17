@@ -25,7 +25,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-title: Token IQ - Making Tokens Smarter
+title: Token IQ
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
