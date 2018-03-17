@@ -53,4 +53,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Making Smarter Tokens
 purpose: []
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6cc12f1-9271-4812-8f41-17077d3f6272.png
