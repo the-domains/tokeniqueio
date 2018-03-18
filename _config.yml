@@ -76,8 +76,27 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  Making smarter tokens, helping issuers and investors be compliant, successful
-  and productive.
+  The ERC-20 token and similar technologies are not capable of providing a truly
+  compliant solution to the tokenization of securities, nor even to delivering a
+  fully compliant ICO.  A simple example is that in the cryptocurrency world
+  loss of access to a wallet renders the token-holder incapable of capitalizing
+  on gains while in the real world the loss of a share certificate in no way
+  undermines a shareholder’s claim to their rights.  Our Solution: Create a
+  scalable technology solutions that allows us to tokenize securities, be they
+  ICOs or traditional security offerings.  Specifically, we address the key
+  areas of: token Monetization, AML and KYC compliance, ongoing-compliance and
+  market-making. Among the numerous capabilities that are missing from today’s
+  crypto currencies are Futures, Vesting, Options (American and European),
+  Indexes, Swaps, Forward Contracts, Lost token handling, Inheritance,
+  Custodianship, Court Judgement enforcement.  While some have talked about
+  approaching a few of these capabilities through the deployment of an exchange
+  mechanism, we believe that a better way is to build these directly into the
+  token.  The Token IQ solution makes all these capabilities available to
+  tokenized securities, be they ICOs today or conventional securities in the
+  future.  Our immediate business opportunity is each and every company that has
+  issued a SAFT agreement or is interested in fully legal, compliant and mature
+  Tokenization that is available to all investors and is "on-side" with SEC and
+  other regulators.
 purpose:
   - type: contact
     url: 'mailto:mvange@tokeniq.io'
