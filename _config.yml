@@ -75,7 +75,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Making Smarter Tokens
+description: >-
+  Making smarter tokens, helping issuers and investors be compliant, successful
+  and productive.
 purpose:
   - type: contact
     url: 'mailto:mvange@tokeniq.io'
