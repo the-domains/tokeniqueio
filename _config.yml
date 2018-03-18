@@ -52,5 +52,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Making Smarter Tokens
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:mvange@tokeniq.io'
+    label: Get in touch
 logo: null
